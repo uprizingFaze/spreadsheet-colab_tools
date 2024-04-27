@@ -11,14 +11,14 @@ export const ROW_MAX_HEIGHT = 100;
 export const ID_LENGTH = 6;
 
 export const NAMES = [
-  "Charlie Layne",
-  "Mislav Abha",
-  "Tatum Paolo",
-  "Anjali Wanda",
-  "Jody Hekla",
-  "Emil Joyce",
-  "Jory Quispe",
-  "Quinn Elton",
+  "uprizingFaze",
+  "El rincon del dev",
+  "Afor",
+  "uprizingFaze",
+  "El rincon del dev",
+  "Afor",
+  "uprizingFaze",
+  "El rincon del dev",
 ];
 
 export const COLORS = [
