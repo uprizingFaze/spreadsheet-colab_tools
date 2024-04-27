@@ -79,7 +79,7 @@
 
 ```bash
 git clone https://github.com/uprizingFaze/spreadsheet-colab_tools.git
-cd Colab_Tools
+cd spreadsheet-colab_tools
 ```
 
 #####  Instalación de dependencias:
